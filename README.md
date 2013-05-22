@@ -6,7 +6,7 @@ Just a repository to familiarize myself with creating a repository and format gi
 
 The asciicat
 ------------
-<pre>
+<pre style='font: 10px/5px monospace;'>
                                                                                       
                                                                                       
                                                                                       
