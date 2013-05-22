@@ -9,12 +9,6 @@ The ASCIIcat
 
 In a pre tag.
 
-<style>
-#ASCIIcat {
-  font: 10px/5px monospace;
-}
-</style>
-
 <pre id='ASCIIcat'>
                                                                                       
                                                                                       
