@@ -5,7 +5,7 @@ Just a repository to familiarize myself with creating a repository and format gi
 
 
 The asciicat
-____________
+------------
 <pre>
                                                                                       
                                                                                       
@@ -97,6 +97,6 @@ ____________
 ASCIIcat is based on the [original octocat](http://octodex.github.com/original/) and was created using [picascii](http://picascii.com/).
 
 Legal?
-______
+------
 
 ASCIIcat was created as a piece of fan work and is not officially affiliated with GitHub. Per the [Octocat FAQ](http://octodex.github.com/faq.html) ASCIIcat is distributed without license.
