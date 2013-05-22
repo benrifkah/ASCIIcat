@@ -7,7 +7,8 @@ Just a repository to familiarize myself with creating a repository and format gi
 The asciicat
 ------------
 
-<pre style='font: 10px/5px monospace;'>
+<div style='font: 10px/5px monospace;'>
+<pre>
                                                                                       
                                                                                       
                                                                                       
@@ -94,6 +95,7 @@ The asciicat
                                                                                       
                                                                                       
 </pre>
+</div>
 
 ASCIIcat is based on the [original octocat](http://octodex.github.com/original/) and was created using [picascii](http://picascii.com/).
 
